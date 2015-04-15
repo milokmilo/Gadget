@@ -74,6 +74,9 @@ Temporary Items
 *.log
 *.sql
 *.sqlite
+*.csv
+*.xls
+*.xlsx
  
 # OS generated files #
 ######################
